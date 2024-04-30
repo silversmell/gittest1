@@ -1,0 +1,40 @@
+HELP.md   <-- 삭제 ★
+.gradle     <-- 삭제 ★
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### STS ###
+.bin           <-- 추가 ★
+.lock          <-- 추가 ★
+.erd           <-- 추가 ★
+.apt_generated
+.classpath    <-- 삭제 ★
+.factorypath
+.project      <-- 삭제 ★
+.settings     <-- 삭제 ★
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
