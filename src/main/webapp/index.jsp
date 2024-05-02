@@ -11,10 +11,8 @@
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <OL>
-          <LI>첫번째 변경 진행함.</LI>
-          <LI>첫번째 변경 후 add, commit 진행, push 안함.</LI>
-          <LI>두번째 변경 진행함.</LI>
-          <LI>세번째 변경 진행함.</LI>
+          <LI>silver.</LI>
+
       </OL>
   </DIV> 
 </body>
