@@ -12,7 +12,7 @@
       <H1>깃 테스트</H1>
       <OL>
           <LI>silver: 카페추천/여행추천/노랑/맥주/파스타</LI>
-          <li>youngeun: 연보라색/맥주</li>
+          <li>youngeun: 연보라색/맥주/피자</li>
       </OL>
   </DIV> 
 </body>
