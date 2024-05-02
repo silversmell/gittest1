@@ -11,7 +11,7 @@
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <OL>
-          <LI>silver.</LI>
+          <LI>silver: 카페추천</LI>
 
       </OL>
   </DIV> 
